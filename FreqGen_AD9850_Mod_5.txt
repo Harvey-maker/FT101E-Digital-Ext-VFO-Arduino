@@ -1,4 +1,1 @@
 
-initial coding for detection of enable bit and switching user flag in txt box 5. 
-
-Baud rate increased to ------------ tbc
